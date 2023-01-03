@@ -1,12 +1,4 @@
-Hi, I’m interested in  programming
- I’m interested in webb development 
- I’m currently learning React
-I’m looking to collaborate on small JavaScript projects for portfolio
- How to reach me sridamian@gmail.com
- 
- 
- 
- 
+
  <h1 align="center">Hi 👋, I'm Benedict Damian</h1>
 <h3 align="center">I’m interested in programming.</h3>
 
