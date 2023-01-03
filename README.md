@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Small JavaScript projects for portfolio**
+- 👯 I’m looking to collaborate on **Smal JavaScript projects for portfolio**
 
 - 📫 How to reach me **sridamian@gmail.com**
 
