@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Benedict 
-- 👀 I’m interested in  programming
-- TECHNOLOGY
-▪ Proficient :JavaScript, HTML, CSS, Bootstrap , React
-▪ Knowledgeable : Java , PHP,MySQL ,Node.js, Express, Git, GitHub, JQuery , bash script,
-▪ Some experience: C,C++,Transact-SQL, MongoDB,python
+- 👋 Hi, I’m Benedict. 
+- 👀 I’m interested in  programming.
+-  I’m currently learning React.
+-  I’m looking to collaborate on small JavaScript projects for portfolio.
+-  How to reach me sridamian@gmail.com
