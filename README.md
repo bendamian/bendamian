@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benedict. 
 - 👀 I’m interested in  programming.
--  I’m currently learning React.
+- :jigsaw: I’m currently learning React.
 -  I’m looking to collaborate on small JavaScript projects for portfolio.
 -  How to reach me sridamian@gmail.com
