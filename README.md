@@ -4,7 +4,7 @@ I’m interested in programming.
 
 
 
-## Other 
+## Other Common Github Profile Sections
 
 🧠 I'm currently learning React
 
