@@ -6,9 +6,7 @@ I’m interested in programming.
 
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning React
-
-👯‍♀️ I'm looking to collaborate on  Small JavaScript projects for portfolio
+🧠 I'm currently learning Geo Django
 
 📫 How to reach me sridamian@gmail.com
 
