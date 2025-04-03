@@ -14,8 +14,8 @@ I’m interested in programming.
 
 
 ## 🛠 Skills
-▪ Proficient :JavaScript, HTML, CSS, Bootstrap , React
+▪ Proficient :Python,JavaScript, HTML, CSS, Bootstrap , React
 
 ▪ Knowledgeable : Java , PHP,MySQL ,Node.js, Express, Git, GitHub, JQuery , bash script,
 
-▪ Some experience​: C,C++,Transact-SQL,  MongoDB,python
+▪ Some experience​: C,C++,Transact-SQL,  MongoDB,
