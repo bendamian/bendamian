@@ -1,21 +1,48 @@
 ## 🚀 About Me
-Hi , I'm Benedict Damian.
-I’m interested in programming.
 
+Hi there! 👋 I'm **Benedict Damian** — a curious and committed developer 
+with a multidisciplinary background and a growing passion for geospatial and data-driven applications. 
+I thrive on building impactful software, learning new tools, and tackling real-world problems with code.
 
+---
 
-## Other Common Github Profile Sections
+## 🌱 Currently Exploring
 
-🧠 I'm currently learning Geo Django
+- 🧭 **GeoDjango** and spatial data applications  
+- 🔬 Bioinformatics and gene expression analysis using R  
+- ☁️ DevOps and automation with Terraform and Ansible
 
-📫 How to reach me sridamian@gmail.com
+---
 
+## 🛠️ Skills & Technologies
 
+### 👨‍💻 Programming & Scripting Languages
+- Python, JavaScript, Java, Bash, R
 
+### 🎨 Front-End Development
+- HTML5, CSS3, Bootstrap, Vue.js
 
-## 🛠 Skills
-▪ Proficient :Python,JavaScript, HTML, CSS, Bootstrap , React
+### 🛠️ Back-End Development
+- Django, Django REST Framework (DRF), Flask
 
-▪ Knowledgeable : Java , PHP,MySQL ,Node.js, Express, Git, GitHub, JQuery , bash script,
+### 🗃️ Database Management
+- PostgreSQL, MySQL, SQLite
 
-▪ Some experience​: C,C++,Transact-SQL,  MongoDB,
+### ☁️ DevOps & Infrastructure
+- **Infrastructure as Code (IaC)**: Terraform  
+- **Configuration Management**: Ansible
+
+### 📊 Data Visualization & Analysis
+- Gene expression analysis with **R**
+
+### 📋 Project Management Tools
+- Microsoft Project, Oracle Primavera
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [sridamian@gmail.com](mailto:sridamian@gmail.com)
+
+Let's connect and collaborate on something exciting!
+
